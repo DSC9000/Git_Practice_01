@@ -1,6 +1,9 @@
 package setup;
 
 public class Second {
+    public static void main(String[] args) {
+        System.out.println("5");
+    }
     public void m() {
         System.out.println("first method");
     }
@@ -14,6 +17,7 @@ public class Second {
 
 
         // modify the look of the page with command  alt l
+
 
     }
 }
